@@ -1,7 +1,7 @@
 {
   "manifest_version" : 2,
 
-  "name": "Youtube Search",
+  "name": "Bing Search",
   "description" : "Searches the selected Content in Youtube",
   "background" : {
     "scripts" : ["background.js"]
