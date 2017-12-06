@@ -1,0 +1,9 @@
+{
+"manifest_version": 2,
+"name":"First Extension",
+"version":"1.0",
+"description" :"This is first chrome extension.",
+"browser_action": {
+"default_icon":"icon.png"
+ }
+}
