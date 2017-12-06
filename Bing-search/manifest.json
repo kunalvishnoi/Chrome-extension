@@ -1,0 +1,22 @@
+{
+  "manifest_version" : 2,
+
+  "name": "Youtube Search",
+  "description" : "Searches the selected Content in Youtube",
+  "background" : {
+    "scripts" : ["background.js"]
+  },
+  "version" : "1.0",
+  "browser_action" : {
+    "default_icon" : "icon.png"
+  },
+  "icons" : {
+    "64" : "icon.png",
+    "32" : "icon.png",
+    "16" : "icon.png",
+    "128" : "icon.png"
+  },
+  "permissions" : [
+  "contextMenus"
+  ]
+}
